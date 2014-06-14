@@ -19,8 +19,8 @@ generate a 32bit prime may need about 4 seconds
 
 if you generate a big prime, make sure the BIG_INT_BIT_LEN is enough
 
-notice:
--------
+notice
+------
 
 the generate is not random
 
@@ -91,7 +91,7 @@ update: 2014.06.09 by xkuga
 
 不过随机生成的话只能祝你好运了，而且我们一般需要更大的素数
 
-BigInt: 大整型（程序已实现）
+BigInt 大整型（程序已实现）
 ----------------------------
 
 程序实现了这几种大数运算：+, -, *, /, ^, %, ^%
